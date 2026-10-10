@@ -1,7 +1,7 @@
 # E-Commerce Orders: Data Cleaning and Exploratory Data Analysis
 
 **DecodeLabs Data Analytics Internship, Projects 1 and 2 (Batch 2026)**
-Tool: Microsoft Excel | By [Your name] | [LinkedIn](https://linkedin.com/in/pamilerinilesanmi) | [GitHub](https://github.com/pamskid)
+Tool: Microsoft Excel | By: Pamilerin Ilesanmi 
 
 > This is a practice dataset from the internship. The numbers describe this dataset, not a real business.
 
