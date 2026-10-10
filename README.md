@@ -1,4 +1,4 @@
-# Decodelabs-Internship E-Commerce Sales Analysis (Excel)
+# Decodelabs-Internship E-Commerce Sales Analysis (Excel) Project 1
 
 An Excel workbook analysing 1,200 e-commerce orders (Jan 2023 - Jun 2025) to show which products and referral sources drive revenue, and how much revenue is lost to cancellations and returns.
 
